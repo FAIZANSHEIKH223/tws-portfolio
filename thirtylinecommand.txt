@@ -1,0 +1,30 @@
+1. git init
+2. git clone <repo-url>
+3. git status
+4. git add .
+5. git add <filename>
+6. git commit -m "message"
+7. git branch
+8. git branch <branchname>
+9. git checkout <branchname>
+10. git checkout -b <branchname>
+11. git merge <branchname>
+12. git pull
+13. git pull origin <branchname>
+14. git push
+15. git push origin <branchname>
+16. git remote -v
+17. git remote add origin <repo-url>
+18. git remote remove origin
+19. git log
+20. git log --oneline
+21. git diff
+22. git show <commit-id>
+23. git reset <filename>
+24. git reset --hard
+25. git reset --soft HEAD~1
+26. git stash
+27. git stash pop
+28. git tag <tagname>
+29. git push origin --tags
+30. git rm <filename>
