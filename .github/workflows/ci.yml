@@ -1,0 +1,3 @@
+- name: Run Pylint
+  run: |
+    pylint $(git ls-files '*.py') || true
